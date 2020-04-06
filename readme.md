@@ -1,6 +1,6 @@
 # Name: Tommy Cao
 # Date: 4/6/20
-# Description: Single Linked-List
+# Description: Single and Double Linked-List using JavaScript
 
 # LinkedListConsoleLog - Console.log output in Word format
 # DoubleLinkedListConsoleLog - Console.log output in Word format
